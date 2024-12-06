@@ -1,10 +1,2 @@
 # Data-Science-Project
-
-Data Tools
-	In this module, understanding what tools to use when attempting to use data is crucial. There are a couple tools that we can work with. I chose to use Google Spreadsheets for the basis of my project, finding a .txt/CSV file. By doing so, we can start to unravel the data we are looking for using a pivot, and then with that data, we can attempt to “predict” future trends.
-Big Data
-	In this module, we are introduced to ways that data is being collected and stored. Known as Big Data, these are data sets that contain millions and occasionally trillions of bytes of data. This can range from pictures of our Earth, medical pictures, and lastly, user-interface. Armed with this knowledge, we can choose a trusted website to pick and choose what data set we want to analyze.However, there are some major difficulties when it comes to storing the data. For example, we think that 256 GB of data is a lot for one person to have, but for companies, that is nothing (KhanAcademy) and b/c of that, the solution of having data rooms was implemented. The main takeaway is the fact that a trillions of bytes is being stored for the use of… well anyone who wants to analyze a specific subset of data.
-Bias in Machine Learning
-	In this module, it is emphasized that machine learning can be somewhat biased. This is due to the neural network learning biases from its predecessor, us. Machine learning can only go so far under no bias, for example learning how to optimally play a game. However, when introducing machine learning to identify faces, there seems to be a multitude of problems. This comes in the form of predictive algorithms and facial recognition. Something unexpected was that machine learning is also implemented in translation softwares. At first, there was a bias that came from the algorithm: being sexist. The example from KhanAcademy explaining the masculine vs feminine speech and accidentally “misgendering”. There has been a fix to it, and now it has become more manageable.
-Unit Test
-	Overall, this unit in KhanAcademy has taught me that data (especially big data) can be analyzed and critiqued upon very easily. From understanding how to analyze data, picking a data set, and getting a better understanding of how to read and analyze data sets.
+[DATA.pdf](https://github.com/user-attachments/files/18032338/DATA.pdf)
